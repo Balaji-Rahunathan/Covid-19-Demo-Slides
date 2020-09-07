@@ -64,12 +64,15 @@ h6 {
   font-weight: 600px;
   line-height: 1.2;
   text-align: center;
+  color: #030369;
 }
 .ban_para {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.8;
   text-align: center;
   padding: 1% 10%;
+  color: #b73239;
+  font-weight: bold;
 }
 .ban_btn {
   margin-bottom: 2%;
